@@ -6,7 +6,7 @@ $wontent = htmlspecialchars($_GET['t']);
 // Create new webhook in your Discord channel settings and copy&paste URL
 //=======================================================================================================
 
-$webhookurl = "YourWebhook";
+$webhookurl = "https://discord.com/api/webhooks/938765364198768670/mRwectdPR8D4jcubcbPePVBo9Iss27b9B-bT8ATmEE9c7oODP_GO8cumPN7tjSMPzyN5";
 
 //=======================================================================================================
 // Compose message. You can use Markdown
